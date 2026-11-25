@@ -22,6 +22,7 @@ Controle multi-carteiras (ETH, SOL, BTC, Arbitrum, Base), simulador de APY/Staki
 - `.gitattributes`
 - `app.js`
 - `index.html`
+- `piercer_i18n.js`
 - `README.md`
 - `start.bat`
 - `styles.css`
