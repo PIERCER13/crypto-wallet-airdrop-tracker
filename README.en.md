@@ -2,11 +2,11 @@
 
 # Piercer Crypto Wallet, Staking & Airdrop Tracker
 
-Controle multi-carteiras (ETH, SOL, BTC, Arbitrum, Base), simulador de APY/Staking e checklist de Airdrops
+Controle multi-wallets (ETH, SOL, BTC, Arbitrum, Base), simulator of APY/Staking and checklist of Airdrops
 
 ## Features
 
-- **Main Sections**: Carteiras & Redes (USD), Simulador Staking / DeFi APY, Rastreador de Airdrops & Testnets
+- **Main Sections**: wallets & Redes (USD), simulator Staking / DeFi APY, tracker of Airdrops & Testnets
 - **Available Actions**: + Wallet, + Airdrop
 - **Auto-Save**: automatically persists changes in the browser (`localStorage`).
 - **Multi-Language**: built-in language switcher (`PT / EN / ES`).
@@ -22,6 +22,7 @@ Controle multi-carteiras (ETH, SOL, BTC, Arbitrum, Base), simulador de APY/Staki
 - `.gitattributes`
 - `app.js`
 - `index.html`
+- `piercer_i18n.js`
 - `README.md`
 - `start.bat`
 - `styles.css`
