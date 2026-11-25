@@ -18,6 +18,8 @@ Controle multi-carteiras (ETH, SOL, BTC, Arbitrum, Base), simulador de APY/Staki
 
 ## Arquivos do Projeto
 
+- `.git`
+- `.gitattributes`
 - `app.js`
 - `index.html`
 - `README.md`
